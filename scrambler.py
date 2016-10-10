@@ -1,0 +1,2 @@
+def scrambler():
+    print("scrambler");
